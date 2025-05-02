@@ -1,0 +1,5 @@
+flask
+requests
+playwright
+rich
+python-dotenv
